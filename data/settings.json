@@ -43,6 +43,14 @@
     "gitq": {
       "published": true,
       "passwordVersion": 0
+    },
+    "training": {
+      "published": true,
+      "passwordVersion": 0
+    },
+    "gitq-docs": {
+      "published": false,
+      "passwordVersion": 0
     }
   },
   "secret": "9b78febfc2731b40bdb1a940d58bf681a1629bbecdd0d05a7a4b7eab2e4195a7"
