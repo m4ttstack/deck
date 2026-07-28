@@ -30,7 +30,8 @@
       "override": {
         "devPort": 4101,
         "basePort": 11007
-      }
+      },
+      "publicFollowsOverride": true
     },
     "overridetest": {
       "published": true,
@@ -41,7 +42,7 @@
       "passwordVersion": 0
     },
     "gitq": {
-      "published": true,
+      "published": false,
       "passwordVersion": 0
     },
     "training": {
